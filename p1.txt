@@ -1,2 +1,2 @@
 git is vvvv
-learning git rebase
+learning git rebas
